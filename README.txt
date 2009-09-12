@@ -16,7 +16,7 @@ Requirements
 
   * Linux 2.6
   * FUSE (http://fuse.sourceforge.org)
-  * Ruby 1.8
+  * Ruby 1.8 or 1.9
  (* C compiler)
 
 
